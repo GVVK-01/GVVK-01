@@ -19,8 +19,9 @@ I’m passionate about building data-driven solutions, exploring ML techniques, 
 
 
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/66d053c5-b960-4b73-9f7b-d24ca4c7a923" />
-<img width="100" height="200" alt="image" src="https://github.com/user-attachments/assets/983a0b0f-f5fd-4e4f-be96-c74048f34a96" />
-<img width="100" height="250" alt="image" src="https://github.com/user-attachments/assets/a91d46ef-da2e-4a24-a9d0-f48e8d3617ab" />
+<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/a6ee53b3-ccb0-4a87-8ba2-fc59e9e64679" />
+
+<img width="300" height="250" alt="image" src="https://github.com/user-attachments/assets/a91d46ef-da2e-4a24-a9d0-f48e8d3617ab" />
 <img width="100" height="250" alt="image" src="https://github.com/user-attachments/assets/6f029f17-ffe4-49ed-a7b6-ace89a21f70b" />
 <img width="100" height="224" alt="image" src="https://github.com/user-attachments/assets/5b886e56-5b8a-4adf-9aae-e18e2599dfc3" />
 <img width="389" height="129" alt="image" src="https://github.com/user-attachments/assets/ad26cde5-5052-474a-8a87-1610de610059" />
