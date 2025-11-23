@@ -15,5 +15,10 @@ I’m passionate about building data-driven solutions, exploring ML techniques, 
 📫 Reach out to me at prudhvee02@gmail.com
 
 🛠️ Skills
+
+
+
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/66d053c5-b960-4b73-9f7b-d24ca4c7a923" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/983a0b0f-f5fd-4e4f-be96-c74048f34a96" />
+
 
