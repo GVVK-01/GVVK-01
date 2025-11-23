@@ -1,16 +1,22 @@
-👋 Hi, I'm GVVK Sai Prudhvee
+👋 Hi, I'm GVVK Sai Prudhvee 📍 Based in Bengaluru, India
 
 I'm a Mechanical Engineer with strong enthusiasm for **Data Science, Machine Learning, and Python-based analytics.** 
+
 I’m passionate about building data-driven solutions, exploring ML techniques, and applying engineering logic to solve real-world problems.
 
 🌱 Currently learning and applying: Machine Learning, Data Analysis, CRISP-ML process, Python automation
+
 🔭 Working on: ML mini-projects, EDA, preprocessing, regression/classification models
+
 🏅 Certification: Microsoft Certified: Power BI Data Analyst
+
 👨‍💻 You can find all my projects and hands-on work here on my GitHub.
+
 📝 I document concepts, notes, and learnings as part of my ML journey.
+
 💬 Ask me about: Python, Data Preprocessing, ML Algorithms, Analytics, and Power BI
+
 👯 I’m looking to collaborate on  ML projects and 
-📍 Based in Bengaluru, India
 
 📫 Reach out to me at prudhvee02@gmail.com
 
