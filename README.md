@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm GVVK Sai Prudhvee! 👋</h1>
-  <h3>Data Scientist | Machine Learning Practitioner | Power BI Specialist</h3>
+  <h3>Data Scientist | Machine Learning Practitioner </h3>
   
   <p>
     I am a data science professional passionate about leveraging <b>Statistics, Machine Learning, and Probability</b> to solve real-world problems. 
