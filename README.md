@@ -1,39 +1,67 @@
-👋 Hi, I'm GVVK Sai Prudhvee 📍 Based in Bengaluru, India
+<h1 align="center">Hi there, I'm GVVK Sai Prudhvee 👋</h1>
+<h3 align="center">Data Analyst & Machine Learning Enthusiast 📍 Bengaluru, India</h3>
 
-I'm a Mechanical Engineer with strong enthusiasm for **Data Science, Machine Learning, and Python-based analytics.** 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="gvvk-sai-prudhvee" />
+</p>
 
-I’m passionate about building data-driven solutions, exploring ML techniques, and applying engineering logic to solve real-world problems.
+<p align="center">
+ <i>I’m passionate about building data-driven solutions, exploring ML techniques, and applying engineering logic to solve real-world problems.</i>
+</p>
 
-🌱 Currently learning and applying: Machine Learning, Data Analysis, CRISP-ML process, Python automation
+---
 
-🔭 Working on: ML mini-projects, EDA, preprocessing, regression/classification models
+### 👨‍💻 About Me
 
-🏅 Certification: Microsoft Certified: Power BI Data Analyst
+- 💼 **Experience:** 2 Years of experience in the IT industry, specializing in Data Analysis and Business Intelligence.
+- 🌱 **Currently learning:** Machine Learning, Data Analysis, CRISP-ML process, and Python automation.
+- 🔭 **Working on:** ML mini-projects, EDA, Data Preprocessing, and Regression/Classification models.
+- 🏅 **Certification:** Microsoft Certified: **Power BI Data Analyst**.
+- 📝 I document concepts, notes, and learnings as part of my ML journey.
+- 👯 I’m looking to collaborate on Open Source ML projects.
+- 💬 **Ask me about:** Python, Data Preprocessing, ML Algorithms, Analytics, and Power BI.
 
-👨‍💻 You can find all my projects and hands-on work here on my GitHub.
+<br>
 
-📝 I document concepts, notes, and learnings as part of my ML journey.
+### 🛠️ Skills & Tech Stack
 
-💬 Ask me about: Python, Data Preprocessing, ML Algorithms, Analytics, and Power BI
+**Languages & Scripting**
+<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 
-👯 I’m looking to collaborate on  ML projects and 
+**Data Science & Machine Learning**
+<br>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 
-📫 Reach out to me at prudhvee02@gmail.com
+**Visualization & Tools**
+<br>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" /> <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python&logoColor=black" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 
-🛠️ Skills
+<br>
 
+### 📊 GitHub Stats
 
+<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=150 src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&count_private=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" />
+</a>
+</div>
 
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/66d053c5-b960-4b73-9f7b-d24ca4c7a923" />
-<img width="150" height="225" alt="image" src="https://github.com/user-attachments/assets/a6ee53b3-ccb0-4a87-8ba2-fc59e9e64679" />
-<img width="200" height="250" alt="image" src="https://github.com/user-attachments/assets/a91d46ef-da2e-4a24-a9d0-f48e8d3617ab" />
-<img width="200" height="250" alt="image" src="https://github.com/user-attachments/assets/6f029f17-ffe4-49ed-a7b6-ace89a21f70b" />
-<img width="200" height="150" alt="image" src="https://github.com/user-attachments/assets/5b886e56-5b8a-4adf-9aae-e18e2599dfc3" />
-<img width="200" height="129" alt="image" src="https://github.com/user-attachments/assets/ad26cde5-5052-474a-8a87-1610de610059" />
-<img width="200" height="159" alt="image" src="https://github.com/user-attachments/assets/58873ed9-f568-4e5c-b1cb-e89c560a06b6" />
-<img width="200" height="177" alt="image" src="https://github.com/user-attachments/assets/ff62daab-5642-42c2-96aa-4e4c7b6438a4" />
+<br>
 
+### 📫 Connect with me
 
+<p align="left">
+<a href="mailto:prudhvee02@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</p>
 
 
 
