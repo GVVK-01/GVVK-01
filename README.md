@@ -1,9 +1,6 @@
 <h1 align="center">Hi there, I'm GVVK Sai Prudhvee 👋</h1>
 <h3 align="center">Data Analyst & Machine Learning Enthusiast 📍 Bengaluru, India</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GVVK-01&label=Profile%20Views&color=0e75b6&style=flat" alt="gvvk-sai-prudhvee" />
-</p>
 
 <p align="center">
  <i>I’m passionate about building data-driven solutions, exploring ML techniques, and applying engineering logic to solve real-world problems.</i>
