@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst & Machine Learning Enthusiast 📍 Bengaluru, India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="gvvk-sai-prudhvee" />
+  <img src="https://komarev.com/ghpvc/?username=GVVK-01&label=Profile%20Views&color=0e75b6&style=flat" alt="gvvk-sai-prudhvee" />
 </p>
 
 <p align="center">
@@ -42,11 +42,11 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&count_private=true" />
+<a href="https://github.com/GVVK-01/github-readme-stats">
+  <img height=150 src="https://github-readme-stats.vercel.app/api?username=GVVK-01&show_icons=true&theme=radical&count_private=true" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" />
+<a href="https://github.com/GVVK-01/github-readme-stats">
+  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=GVVK-01&layout=compact&theme=radical" />
 </a>
 </div>
 
@@ -58,7 +58,7 @@
 <a href="mailto:prudhvee02@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+<a href="https://linkedin.com/in/gvvk-sai-prudhvee-4129b71b6">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </p>
