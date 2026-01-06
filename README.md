@@ -1,67 +1,62 @@
-<h1 align="center">Hi there, I'm GVVK Sai Prudhvee 👋</h1>
-<h3 align="center">Data Analyst & Machine Learning Enthusiast 📍 Bengaluru, India</h3>
+<h1>Hi there, I'm GVVK Sai Prudhvee! 👋</h1>
+  <h3>Data Analyst | Process Automation Engineer | Power BI Specialist</h3>
+  
+  <p>
+    I am a professional skilled in transforming complex datasets into actionable business insights. 
+    With a background in <b>Process Automation</b> and a <b>Microsoft Certification in Power BI</b>, 
+    I bridge the gap between raw data and strategic decision-making.
+  </p>
 
-
-<p align="center">
- <i>I’m passionate about building data-driven solutions, exploring ML techniques, and applying engineering logic to solve real-world problems.</i>
-</p>
+  <a href="https://linkedin.com/in/gvvk-sai-prudhvee-4129b71b6">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:prudhvee02@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" />
+  </a>
+</div>
 
 ---
 
-### 👨‍💻 About Me
+### 🛠️ Technical Stack
 
-- 💼 **Experience:** 2 Years of experience in the IT industry, specializing in Data Analysis and Business Intelligence.
-- 🌱 **Currently learning:** Machine Learning, Data Analysis, CRISP-ML process, and Python automation.
-- 🔭 **Working on:** ML mini-projects, EDA, Data Preprocessing, and Regression/Classification models.
-- 🏅 **Certification:** Microsoft Certified: **Power BI Data Analyst**.
-- 📝 I document concepts, notes, and learnings as part of my ML journey.
-- 👯 I’m looking to collaborate on Open Source ML projects.
-- 💬 **Ask me about:** Python, Data Preprocessing, ML Algorithms, Analytics, and Power BI.
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) |
+| **Data Science** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) |
+| **Visualization** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) |
+| **Automation** | ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white) `BeautifulSoup` `Regex` |
 
-<br>
+---
 
-### 🛠️ Skills & Tech Stack
+### 📂 Featured Projects
 
-**Languages & Scripting**
-<br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+#### 📊 [Job Market Analysis (Naukri.com Scraper)](#)
+*Automated Web Scraping & EDA*
+* **Goal:** Analyze India's data job market to identify in-demand roles and skills.
+* **Tech:** Python, Selenium, BeautifulSoup, Regex.
+* **Key Result:** Scraped **960+ job postings**, identifying key hubs (Bengaluru/Hyderabad) and top skills (Python, SQL) to guide career planning.
 
-**Data Science & Machine Learning**
-<br>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+#### 📈 [Telecom Revenue & Profitability Dashboard](#)
+*Business Intelligence & Data Modeling*
+* **Goal:** Track revenue, churn risk, and profit margins across regions.
+* **Tech:** Power BI, DAX, Star Schema.
+* **Key Result:** Developed KPIs for **YoY revenue growth** and **Delinquency %**, highlighting regional profitability gaps and retention risks.
 
-**Visualization & Tools**
-<br>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" /> <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python&logoColor=black" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+#### 🎓 [Student Marks Prediction Model](#)
+*Machine Learning*
+* **Goal:** Optimize grading processes and predict student performance.
+* **Tech:** Python, Scikit-Learn.
+* **Key Result:** Achieved **92% prediction accuracy** and reduced manual grading time by **50%**.
 
-<br>
+---
 
-### 📊 GitHub Stats
+### 🏆 Certifications
+* **Microsoft Certified: Power BI Data Analyst Associate**
 
+---
+
+### 📉 GitHub Stats
 <div align="center">
-<a href="https://github.com/GVVK-01/github-readme-stats">
-  <img height=150 src="https://github-readme-stats.vercel.app/api?username=GVVK-01&show_icons=true&theme=radical&count_private=true" />
-</a>
-<a href="https://github.com/GVVK-01/github-readme-stats">
-  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=GVVK-01&layout=compact&theme=radical" />
-</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=GVVK-01&show_icons=true&theme=radical&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GVVK-01&layout=compact&theme=radical" height="150" alt="languages graph" />
 </div>
-
-<br>
-
-### 📫 Connect with me
-
-<p align="left">
-<a href="mailto:prudhvee02@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/gvvk-sai-prudhvee-4129b71b6">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-</p>
-
-
-
-
-
-
