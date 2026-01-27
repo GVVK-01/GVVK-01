@@ -1,68 +1,80 @@
-<div align="center">
-  <h1>Hi there, I'm GVVK Sai Prudhvee! 👋</h1>
-  <h3>Data Scientist | Machine Learning Practitioner </h3>
-  
-  <p>
-    I am a data science professional passionate about leveraging <b>Statistics, Machine Learning, and Probability</b> to solve real-world problems. 
-    With a strong foundation in <b>Python, SQL, and Data Modeling</b>, I focus on building predictive models and interactive dashboards that drive business value.
-  </p>
+<div align="center"> <h1>Hi, I'm GVVK Sai Prudhvee 👋</h1> <h3>Machine Learning Engineer | Data Science Aspirant</h3> <p> Passionate about solving real-world problems through <b>Machine Learning, Statistics, and Data Modeling</b>. Skilled in building <b>predictive models, analytical dashboards, and data-driven automations</b> to accelerate business value. </p> <a href="https://linkedin.com/in/gvvk-sai-prudhvee-4129b71b6"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /> </a> <a href="mailto:prudhvee02@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /> </a> </div>
+🧠 Tech Stack & Toolkit
+Domain	Tools
+Machine Learning	Scikit-Learn • NumPy • Pandas
+Data Visualization	Power BI • Matplotlib
+Languages	Python • SQL
+Data Engineering & Web Scraping	Selenium • BeautifulSoup
+🚀 Featured Data Science Projects
+🤖 Student Marks Prediction Model
 
-  <a href="https://linkedin.com/in/gvvk-sai-prudhvee-4129b71b6">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:prudhvee02@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" />
-  </a>
-</div>
+Predictive Analytics
 
----
+Built a predictive model to estimate student grades using statistical and ML methods.
 
-### 🧠 Technical Arsenal
+Used Scikit-Learn + Regression Models achieving ~92% prediction accuracy.
 
-| Domain | Stack |
-| :--- | :--- |
-| **Machine Learning** | ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) |
-| **Data Viz & BI** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=matplotlib&logoColor=black) |
-| **Core Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) |
-| **Data Engineering** | ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white) `BeautifulSoup` `Web Scraping` |
+Resulted in a 50% reduction in manual grading effort.
 
----
+📊 India Data Job Market Analysis
 
-### 🚀 Data Science Projects
+EDA + Web Scraping
 
-#### 🤖 [Student Marks Prediction Model](#)
-*Predictive Analytics & Machine Learning*
-* **Objective:** Developed a data science model to predict student performance and optimize grading.
-* **Methods:** Utilized **Scikit-Learn** and advanced statistical techniques to achieve **92% prediction accuracy**.
-* **Impact:** Reduced manual grading time by **50%** through algorithmic efficiency.
+Scraped and analyzed 960+ job listings from Naukri.com.
 
-#### 📊 [India Data Job Market Analysis](#)
-*EDA & Web Scraping*
-* **Objective:** Analyzed 960+ job postings from Naukri.com to identify market trends.
-* **Methods:** Performed data cleaning and **Exploratory Data Analysis (EDA)** using Python, Selenium, and Regex.
-* **Insights:** Identified top in-demand roles (Data Engineer, Business Analyst) and skill requirements across experience levels.
+Conducted EDA to uncover hiring patterns, skill trends, and experience segmentation.
 
-#### 📈 [Telecom Revenue & Churn Dashboard](#)
-*Business Intelligence*
-* **Objective:** visualized operational performance to track revenue, delinquency rates, and customer churn.
-* **Methods:** Modeled data in a **Star Schema** and utilized complex **DAX measures** for KPI calculations.
-* **Impact:** Highlighted regional profitability gaps and customer retention risks to improve ARPU.
+Found highest demand in Data Engineer + Business Analyst roles.
 
----
+📈 Telecom Revenue & Churn Dashboard
 
-### 💼 Professional Highlights
-* **Machine Learning Implementation:** Developed ML models to detect object discrepancies in manufacturing components, improving verification accuracy.
-* **Data Visualization:** Designed Power BI dashboards to visualize operational metrics, enabling data-driven decision-making.
-* **Statistical Analysis:** Analyzed complex datasets using statistical methods to generate actionable business insights during tenure as a Data Analyst Trainee.
+Business Intelligence
 
----
+Modeled telecom revenue + churn metrics using Star Schema + DAX.
 
-### 📜 Certifications
-* **Microsoft Certified: Power BI Data Analyst Associate**
+Built dynamic KPI dashboards in Power BI to highlight churn risks and revenue gaps.
 
----
+Enabled insights into regional profitability + retention impact.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GVVK-01&show_icons=true&theme=radical&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GVVK-01&layout=compact&theme=radical" height="150" alt="languages graph" />
-</div>
+✈ Airline Delay Prediction Pipeline
+
+End-to-End ML Engineering
+
+Engineered a complete ML pipeline for delay prediction using 50k+ samples.
+
+Performed data cleaning, encoding, feature engineering, and model tuning.
+
+Compared LR, RF, GBM, XGB, SVM using MAE/RMSE/R².
+
+Utilized SHAP Explainability to identify influential delay propagation factors.
+
+Investigated data leakage scenarios to improve model validity and interpretability.
+
+💼 Professional Highlights
+
+Built ML models for manufacturing defect detection improving verification accuracy.
+
+Designed BI dashboards to reveal operational KPIs and drive decision insights.
+
+Performed statistical analysis during Data Analyst Trainee role for business impact.
+
+📜 Certifications
+
+Microsoft Certified — Power BI Data Analyst Associate
+
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=GVVK-01&show_icons=true&theme=radical&count_private=true" height="150" alt="stats graph" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GVVK-01&layout=compact&theme=radical" height="150" alt="languages graph" /> </div>
+🌱 Currently Exploring
+
+Deep Learning (ANNs & MLPs)
+
+Responsible and interpretable ML
+
+Data-driven decision systems
+
+📬 Reach Out
+
+Open to collaboration, research discussions, and real-world DS/ML use-case work!
+
+📩 Email: prudhvee02@gmail.com
+
+🔗 LinkedIn: /gvvk-sai-prudhvee-4129b71b6
