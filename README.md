@@ -1,12 +1,12 @@
-# 🌐 Hi, I'm **GVVK Sai Prudhvee!**  
+#  Hi, I'm GVVK Sai Prudhvee!
 
-### ** Machine Learning Engineer |Data Scientist Aspirant | Analytics & BI**
+### Machine Learning Engineer |Data Scientist Aspirant | Analytics & BI
 
 Exploring data-driven problem solving through machine learning, statistics, BI, and automation. Practicing predictive modeling, data analysis, and dashboarding using Python, SQL, Scikit-Learn, and Power BI.
 
 ---
 
-## 🧰 **Tech Stack & Tools**
+## 🧰 Tech Stack & Tools
 
 | Category | Tools |
 |---|---|
@@ -18,14 +18,14 @@ Exploring data-driven problem solving through machine learning, statistics, BI, 
 
 ---
 
-## 🚀 **Featured Projects**
+## 🚀 Featured Projects
 
 ### ✈ **Airline Delay Prediction — End-to-End ML Pipeline**
 > Predictive Modeling • Evaluation • Explainability
 - Built a complete ML pipeline to predict delay propagation  
 - Tuned multiple models (LR, RF, GB, XGB, SVM) using MAE/RMSE/R²  
 - Detected & mitigated **data leakage** for improved model validity  
-- Applied **SHAP** to interpret delay influence factors  
+
 
 ---
 
