@@ -2,7 +2,7 @@
 
 ### ** Machine Learning Engineer |Data Scientist Aspirant | Analytics & BI**
 
-I build data-driven systems combining **Machine Learning, Statistics, BI, and Automation** to solve real-world problems. Skilled in **Python, SQL, Scikit-Learn, and Power BI**, with a focus on predictive modeling, data-driven insight generation, and dashboarding for business decisions.
+Exploring data-driven problem solving through machine learning, statistics, BI, and automation. Practicing predictive modeling, data analysis, and dashboarding using Python, SQL, Scikit-Learn, and Power BI.
 
 ---
 
