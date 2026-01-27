@@ -1,80 +1,92 @@
-<div align="center"> <h1>Hi, I'm GVVK Sai Prudhvee 👋</h1> <h3>Machine Learning Engineer | Data Science Aspirant</h3> <p> Passionate about solving real-world problems through <b>Machine Learning, Statistics, and Data Modeling</b>. Skilled in building <b>predictive models, analytical dashboards, and data-driven automations</b> to accelerate business value. </p> <a href="https://linkedin.com/in/gvvk-sai-prudhvee-4129b71b6"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /> </a> <a href="mailto:prudhvee02@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /> </a> </div>
-🧠 Tech Stack & Toolkit
-Domain	Tools
-Machine Learning	Scikit-Learn • NumPy • Pandas
-Data Visualization	Power BI • Matplotlib
-Languages	Python • SQL
-Data Engineering & Web Scraping	Selenium • BeautifulSoup
-🚀 Featured Data Science Projects
-🤖 Student Marks Prediction Model
+# 🌐 Hi, I'm **GVVK Sai Prudhvee!**  
 
-Predictive Analytics
+### ** Machine Learning Engineer |Data Scientist Aspirant | Analytics & BI**
 
-Built a predictive model to estimate student grades using statistical and ML methods.
+I build data-driven systems combining **Machine Learning, Statistics, BI, and Automation** to solve real-world problems. Skilled in **Python, SQL, Scikit-Learn, and Power BI**, with a focus on predictive modeling, data-driven insight generation, and dashboarding for business decisions.
 
-Used Scikit-Learn + Regression Models achieving ~92% prediction accuracy.
+---
 
-Resulted in a 50% reduction in manual grading effort.
+## 🧰 **Tech Stack & Tools**
 
-📊 India Data Job Market Analysis
+| Category | Tools |
+|---|---|
+| **Languages** | Python • SQL |
+| **Machine Learning & Analytics** | Scikit-Learn • Pandas • NumPy |
+| **Visualization & BI** | Power BI • Matplotlib |
+| **Web Scraping & Automation** | Selenium • BeautifulSoup |
+| **Core Skills** | EDA • Feature Engineering • Model Tuning |
 
-EDA + Web Scraping
+---
 
-Scraped and analyzed 960+ job listings from Naukri.com.
+## 🚀 **Featured Projects**
 
-Conducted EDA to uncover hiring patterns, skill trends, and experience segmentation.
+### ✈ **Airline Delay Prediction — End-to-End ML Pipeline**
+> Predictive Modeling • Evaluation • Explainability
+- Built a complete ML pipeline to predict delay propagation  
+- Tuned multiple models (LR, RF, GB, XGB, SVM) using MAE/RMSE/R²  
+- Detected & mitigated **data leakage** for improved model validity  
+- Applied **SHAP** to interpret delay influence factors  
 
-Found highest demand in Data Engineer + Business Analyst roles.
+---
 
-📈 Telecom Revenue & Churn Dashboard
+### 📊 **India Data Job Market Analysis — EDA + Automation**
+> Web Scraping • Trend Insights
+- Scraped **960+ job listings** using Selenium & Regex  
+- Performed EDA to identify hiring trends & in-demand DS/ML skills  
+- Highlighted role shifts in Data Engineer, Business Analyst, etc.  
 
-Business Intelligence
+---
 
-Modeled telecom revenue + churn metrics using Star Schema + DAX.
+### 📈 **Telecom Revenue & Churn Analytics — BI Dashboard**
+> Star Schema • DAX • KPI Modeling
+- Modeled telecom churn data via dimensional schema  
+- Built Power BI dashboards tracking churn, revenue & ARPU  
+- Revealed regional profitability and retention patterns  
 
-Built dynamic KPI dashboards in Power BI to highlight churn risks and revenue gaps.
+---
 
-Enabled insights into regional profitability + retention impact.
+### 🎯 **Student Marks Prediction — Predictive Analytics**
+> Regression • Statistics • Effort Reduction
+- Achieved **~92% prediction accuracy** using statistical regression  
+- Reduced manual estimation and grading effort  
 
-✈ Airline Delay Prediction Pipeline
+---
 
-End-to-End ML Engineering
+## 🏢 **Professional Highlights**
 
-Engineered a complete ML pipeline for delay prediction using 50k+ samples.
+✔ Machine Learning for manufacturing component verification  
+✔ BI dashboards enabling operational data visibility  
+✔ Statistical analysis for business insight generation  
+✔ Analytical automation during Data Analyst Trainee role  
 
-Performed data cleaning, encoding, feature engineering, and model tuning.
+---
 
-Compared LR, RF, GBM, XGB, SVM using MAE/RMSE/R².
+## 🎓 **Certifications**
 
-Utilized SHAP Explainability to identify influential delay propagation factors.
+- Microsoft Certified — Power BI Data Analyst Associate
 
-Investigated data leakage scenarios to improve model validity and interpretability.
+---
 
-💼 Professional Highlights
+## 🌱 **Currently Exploring**
+- Deep Learning (ANNs)  
+- Explainable & Responsible AI  
+- Applied ML Systems  
 
-Built ML models for manufacturing defect detection improving verification accuracy.
+---
 
-Designed BI dashboards to reveal operational KPIs and drive decision insights.
+## 📬 **Connect With Me**
 
-Performed statistical analysis during Data Analyst Trainee role for business impact.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/gvvk-sai-prudhvee-4129b71b6)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:prudhvee02@gmail.com)
 
-📜 Certifications
+---
 
-Microsoft Certified — Power BI Data Analyst Associate
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GVVK-01&show_icons=true&theme=radical&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GVVK-01&layout=compact&theme=radical" height="150"/>
+</div>
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=GVVK-01&show_icons=true&theme=radical&count_private=true" height="150" alt="stats graph" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GVVK-01&layout=compact&theme=radical" height="150" alt="languages graph" /> </div>
-🌱 Currently Exploring
+---
 
-Deep Learning (ANNs & MLPs)
-
-Responsible and interpretable ML
-
-Data-driven decision systems
-
-📬 Reach Out
-
-Open to collaboration, research discussions, and real-world DS/ML use-case work!
-
-📩 Email: prudhvee02@gmail.com
-
-🔗 LinkedIn: /gvvk-sai-prudhvee-4129b71b6
+### ✨ **Open To**
+Data Scientist • ML Engineer • Applied Analytics • BI & Insights Roles
